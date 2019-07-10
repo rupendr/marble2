@@ -33,7 +33,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "com.example.marble_r"
+        applicationId "com.wd.marble_calculatormarble"
         minSdkVersion 16
         targetSdkVersion 29
         versionCode 2   

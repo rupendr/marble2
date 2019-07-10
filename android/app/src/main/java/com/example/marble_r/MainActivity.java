@@ -1,4 +1,4 @@
-package com.example.marble_r;
+package com.wd.marble_calculatormarble;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
